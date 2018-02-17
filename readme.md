@@ -6,3 +6,4 @@ A simple api to try out [`dep`](https://github.com/golang/dep).
 
 * Go 1.10
 * Dep
+* Gorilla Mux
